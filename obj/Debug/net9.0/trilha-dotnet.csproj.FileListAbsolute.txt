@@ -1,0 +1,15 @@
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.AssemblyInfoInputs.cache
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.AssemblyInfo.cs
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.sourcelink.json
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\bin\Debug\net9.0\trilha-dotnet.exe
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\bin\Debug\net9.0\trilha-dotnet.deps.json
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\bin\Debug\net9.0\trilha-dotnet.runtimeconfig.json
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\bin\Debug\net9.0\trilha-dotnet.dll
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\bin\Debug\net9.0\trilha-dotnet.pdb
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.dll
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\refint\trilha-dotnet.dll
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.pdb
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\trilha-dotnet.genruntimeconfig.cache
+C:\Users\jose roberto\Desktop\trilha-dotnet\desafioProjetoHospedagem\obj\Debug\net9.0\ref\trilha-dotnet.dll
